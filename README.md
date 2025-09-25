@@ -1,8 +1,8 @@
 # Nextra Docs Template 
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This is a template for creating documentation with [Nexto]([https://nextra.site](https://jj-dorito.vercel.app/)).
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+[**Live Demo →**](https://jj-dorito.vercel.app/)
 
 [![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
 
